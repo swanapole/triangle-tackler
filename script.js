@@ -8,10 +8,10 @@ var lengthC = parseInt(sides[2]);
 
 isTriangle(firstValue, secondValue, thirdValue){
   if(firstValue == secondValue|| firstValue == thirdValue || thirdValue == secondValue){
-    window.alert("This is an isosceles triangle");
+  alert("This is an isosceles triangle");
   }else if(firstValue == secondValue && secondValue == thirdValue){
-    window.alert("this is an equilateral triangle")
+    alert("this is an equilateral triangle");
  }else(firstValue!==secondValue! && secondValue!==thirdValue!){
-  window.alert("This is a scalene")
+  alert("This is a scalene");
  }
 };
