@@ -1,0 +1,44 @@
+p{
+  font-family: 'Merienda One', cursive;
+  font-size: 25px;
+}
+h1{
+  font-family: 'Rye', cursive;
+  font-size:50px;
+  margin-top: 50px;
+  margin-top: 50px;
+}
+.row{
+  font-family: 'Rye', cursive;
+  font-size: 20px;
+}
+.container{
+  background-image: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: green;
+}
+.bu{
+    font-family: 'Rye', cursive;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 30px;
+}
+#first_value{
+  height:25px;
+  column-rule-color: Merienda;
+}
+#second_value{
+  height: 25px;
+  column-rule-color: Merienda;
+}
+#third_value{
+  height:25px;
+  column-rule-color: Merienda;
+}
+.triangles{
+  border-radius: 30px;
+}
