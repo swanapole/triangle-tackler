@@ -1,4 +1,4 @@
-# triangle-tackler
+# Triangle-tackler
 
 ## By 
  SHILLA CELINEDION SWANAPOLE
