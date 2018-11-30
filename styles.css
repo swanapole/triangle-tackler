@@ -1,33 +1,17 @@
-
 h1 {
-   background-color: rgb(255, 255, 255);
-   opacity: .8;
    text-align: center;
    padding: 20px;
    margin: 20px;
-   border-radius: 40px;
-   color: rgb(255, 0, 0);
-}
-p {
-   color: maroon
-   padding:70px;
-   margin:50px;
-   background-color: brown;
-   border-radius: 122px;
-   padding: 19px;
-   opacity: .9;
-}
-body {
-   color: aliceblue;
-   background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/01/81/16560a7ec2e8bc6.jpg")
+   border-radius: 20px;
+   color:maroon;
+   font-family: 'Fredoka One', cursive;
+   font-size: 60px;
 
 }
-h2{
-   text-align: center;
-   padding: 15px;
-   background-color: rgb(255, 255, 255);
-   color: green;
-   margin: 104px;
-   border-radius: 49px;
-   opacity: .8;
-}
+p {
+   padding:70px;
+   margin:50px;
+   padding: 19px;
+   opacity: .9;
+   clear:center;
+   
