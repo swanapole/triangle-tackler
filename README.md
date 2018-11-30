@@ -5,10 +5,10 @@
  
  29TH NOV 2018
  
- ### version
+ ### Version
  2.17.1
  
- #### image
+ #### Image
  <img src="http://mathworld.wolfram.com/images/eps-gif/Triangles_750.gif">
  
 ## Description
