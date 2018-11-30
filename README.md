@@ -27,11 +27,16 @@ I have not seen any but the user is free to view and indentify if any.
 
 ## Technologies Used
 -html
+
 -css
+
 -javascript
+
 
 ## Support and contact details
 0790572915
+
+swanapoleshilla@yahoo.com
 
 ### License
 this project is under MIT.
