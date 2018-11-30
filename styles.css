@@ -13,5 +13,36 @@ p {
    margin:50px;
    padding: 19px;
    opacity: .9;
-   clear:center;
+   clear:center;font-family: 'Cabin Sketch', cursive;
+   color:black;
+   font-size: 30px;
+}
+body {
+   background-image: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&h=350")
+ }
+ .bu{
+   font-family: 'Cabin Sketch', cursive;
+   height:50px;
+   width: 100px;
+   font-size: 20px;
+ }
+ .text-box{
+   background-color: maroon;
+   margin-left: 250px;
+   margin-right: 250px;
+ }
+ #a{
+   border-radius: 50px;
+   height: 30px;
+ }
+ #b{
+   border-radius: 50px;
+   height: 30px;
+ }
+ #c{
+   border-radius: 50px;
+   height: 30px;
+ }
+
+   
    
