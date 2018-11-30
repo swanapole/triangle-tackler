@@ -12,9 +12,9 @@ function triangleTracker(){
              alert("Isosceles Triangle");
          }
            else if ((a+b)<=c || (a+c)<=b || (b+c)<=a) {
-             alert("THIS IS NOT A Triangle");
-         }
-           else if (a !== b && b !== c ) {
              alert("Scalene Triangle");
+         }
+           else  {
+             alert("This Is Not A Triangle");
          }
        }
