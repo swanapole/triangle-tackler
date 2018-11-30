@@ -4,10 +4,10 @@
  SHILLA CELINEDION SWANAPOLE
  29TH NOV 2018
  
- ###version
+ ### version
  2.17.1
  
- ####image
+ #### image
  <img src="http://mathworld.wolfram.com/images/eps-gif/Triangles_750.gif">
  
 ## Description
