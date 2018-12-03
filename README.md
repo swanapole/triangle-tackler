@@ -29,11 +29,11 @@ this is my second i.p in prep class its a project about a triangle trackler..hel
 I have not seen any but the user is free to view and indentify if any.
 
 ## Technologies Used
--html
+-HTML
 
--css
+-CSS
 
--javascript
+-JAVASCRIPT
 
 
 ## Support and contact details
