@@ -16,9 +16,9 @@ function triangleTracker(){
                   
          }           
             else if ((a+b) <= (c) || (a+c) <= (b) || (b+c) <= (a)) {
-             alert(" Not a Scalene Triangle");
+             alert(" Not a triangle");
          } 
            else  {
-             alert("This Is Not A Triangle");
+             alert("scalene triangle");
          }
        }
