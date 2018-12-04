@@ -15,6 +15,6 @@ function triangleTracker(){
              alert(" Not a triangle");
          } 
            else  {
-             alert("scalene triangle");
+             alert("invalid");
          }
        }
