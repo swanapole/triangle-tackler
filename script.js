@@ -16,10 +16,10 @@ function triangleTracker(){
            else if (a === b || a === c || b === c ) {
              alert("Isosceles Triangle");
          }
-           else if ((a+b)<=c || (a+c)<=b || (b+c)<=a) {
+           else if ((a+b) <=c || (a+c) <=b || (b+c) <=a) {
              alert("THIS IS NOT A Triangle");
          }
-           else if (a !== b && b !== c ) {
+           else {
              alert("Scalene Triangle");
          }
        }
