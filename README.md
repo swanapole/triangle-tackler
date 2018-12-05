@@ -19,7 +19,7 @@
  
  -the user submits the data
  
- -the back end of the triangle tracker runs the data if no data a pop up appears"enter a number" but if there is data it runs it to check which condition it meets and a pop up must appear for the data the user types.
+ -the back end of the triangle tracker runs the data and the output is if no data a pop up appears  "enter a number" but if there is data it runs it to check which condition it meets and a pop up must appear for the data the user types.
  
 ## Description
 The triangle tracker is used to calculate whether a triangle is isosceles,equilateral,scalene or not a triangle.A scalene does not have all sides equal,a equilateral all sides are equal so input all three values to be the same,an isosceles two sides are equal so put two same values and one not same ."GIT CLONE URL" "cd", "atom" .,"code"...
