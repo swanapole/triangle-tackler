@@ -14,6 +14,13 @@
  #### image
  <img src="http://mathworld.wolfram.com/images/eps-gif/Triangles_750.gif">
  
+ ##### BDD
+ -the user inputs data or not
+ 
+ -the user submits the data
+ 
+ -the back end of the triangle tracker runs the data if no data a pop up appears"enter a number" but if there is data it runs it to check which condition it meets and a pop up must appear.
+ 
 ## Description
 The triangle tracker is used to calculate whether a triangle is isosceles,equilateral,scalene or not a triangle.A scalene does not have all sides equal,a equilateral all sides are equal so input all three values to be the same,an isosceles two sides are equal so put two same values and one not same ."GIT CLONE URL" "cd", "atom" .,"code"...
 this is my second i.p in prep class its a project about a triangle trackler..helps the user determine the type of triangle the values inputted.its free for any user to use,its a better way to calculator.
