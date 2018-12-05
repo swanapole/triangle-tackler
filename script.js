@@ -18,6 +18,6 @@ function triangleTracker(){
              alert(" Not a triangle");
          } 
            else  {
-             alert("invalid");
+             alert("scalene");
          }
        }
