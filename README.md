@@ -14,7 +14,7 @@
  ## BDD
 - The user inputs data or not
 
-- The user submits the data
+- The user submits 
 
 - The back end of the triangle tracker runs the data and the output is if no data a pop up appears "enter a number" but if there is data it runs it to check which condition it meets and a pop up must appear for the data the user types.
  
