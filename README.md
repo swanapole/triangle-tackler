@@ -12,11 +12,11 @@
  <img src="http://mathworld.wolfram.com/images/eps-gif/Triangles_750.gif">
  
  ## BDD
-- The user inputs data or not
+- The pages request for three numbers which represents the three sides of a triangle
 
-- The user submits 
+- The submit button triggers the function to analyse data given 
 
-- The back end of the triangle tracker runs the data and the output is if no data a pop up appears "enter a number" but if there is data it runs it to check which condition it meets and a pop up must appear for the data the user types.
+- The back end of the triangle tracker runs the data to determine whether it is a equilateral,scalene,isoceles or not a triangle and brings the output in form of an alert.
  
 ## Description
 this is my second i.p in prep class its a project about a triangle trackler..helps the user determine the type of triangle the values inputted,its this simple and easy..
