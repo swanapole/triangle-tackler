@@ -11,10 +11,10 @@
  ### version
  2.17.1
  
- #### image
+ ### image
  <img src="http://mathworld.wolfram.com/images/eps-gif/Triangles_750.gif">
  
- ##### BDD
+ ## BDD
  -the user inputs data or not
  
  -the user submits the data
